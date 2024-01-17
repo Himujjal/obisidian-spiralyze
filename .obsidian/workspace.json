@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "09753387a3d19eae",
+        "id": "095d9a199478c7a2",
         "type": "tabs",
         "children": [
           {
-            "id": "f034de9ef840a8df",
+            "id": "83bc34b34ad0ad7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "d0302424800a73b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "087e35f21237a80b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Company Culture/Intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Company Culture/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Company Culture/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Company Culture/Intro.md"
               }
             }
           }
@@ -155,8 +147,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c8b8234cdcb06b2",
+  "active": "83bc34b34ad0ad7b",
   "lastOpenFiles": [
+    "daily-notes/17 Jan, 2024.md",
+    "Company Culture/Intro.md",
+    "Company Culture",
+    "Client Projects/Angi CI-CD Implementation.md",
+    "SpiralAssist/QA Automation/Code Migration.md",
+    "Quick TODO.md",
+    "daily-notes/Daily Notes Template.md",
+    "SpiralAssist/Immediate Tasks.md",
+    "daily-notes/Untitled",
+    "daily-notes",
+    "2024-01-17.md",
+    "Immediate Tasks.md",
+    "SpiralAssist/DevOps/Tasks to Do.md",
+    "Meeting Notes",
+    "SpiralAssist/QA Automation/Lambda & Docker.md",
+    "SpiralAssist/QA Automation/Broken-Links.md",
+    "SpiralAssist/QA Automation/Screenshots.md",
+    "SpiralAssist/QA Automation/Codebase & Infra.md",
+    "SpiralAssist/DevBoost/VS Code Extension.md",
+    "SpiralAssist/DevBoost/Chrome Extension.md",
+    "SpiralAssist/Untitled",
+    "SpiralAssist/QA Automation",
+    "SpiralAssist/DevOps",
+    "SpiralAssist/CopyWriter Pro",
+    "SpiralAssist/DevBoost",
+    "Client Projects",
+    "Untitled 1.md",
     "Welcome.md"
   ]
 }
